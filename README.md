@@ -1,6 +1,6 @@
 # **Set-PATH-Environment-for-Different-OS**
-**The PATH is an important concept when working on the command line. It's a list of directories that tell your operating system where to look for programs,
-so that you can just write script instead of /home/me/bin/script or C:\Users\Me\bin\script. But different operating systems have different ways to add a new directory to it:**
+The PATH is an important concept when working on the command line. It's a list of directories that tell your operating system where to look for programs,
+so that you can just write script instead of /home/me/bin/script or C:\Users\Me\bin\script. But different operating systems have different ways to add a new directory to it:
 
 
 # Windows
