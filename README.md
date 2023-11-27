@@ -16,7 +16,7 @@ Click "OK".
 Restart your terminal.**
 
 
-Mac OS X
+## Mac OS X
 Open the .bash_profile file (for bash shell) in your home directory (for example, /Users/your-user-name/.bash_profile) in a text editor
 OR open the .zshrc file (for zsh shell) in your home directory (for example, /Users/your-user-name/.zshrc) in a text editor.
 Add export PATH="your-dir:$PATH" to the last line of the file, where your-dir is the directory you want to add.
