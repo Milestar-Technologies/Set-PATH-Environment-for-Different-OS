@@ -3,7 +3,7 @@
 so that you can just write script instead of /home/me/bin/script or C:\Users\Me\bin\script. But different operating systems have different ways to add a new directory to it:**
 
 
-**Windows**
+# Windows
 
 
 The first step depends which version of Windows you're using:
