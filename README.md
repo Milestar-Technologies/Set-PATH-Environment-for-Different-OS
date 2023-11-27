@@ -27,6 +27,7 @@ Open the .bash_profile file (for bash shell) in your home directory (for example
 OR open the .zshrc file (for zsh shell) in your home directory (for example, /Users/your-user-name/.zshrc) in a text editor.
 
 Add export PATH="your-dir:$PATH" to the last line of the file, where your-dir is the directory you want to add.
+
 Save the .bash_profile file.
 
 Restart your terminal.
@@ -34,7 +35,9 @@ Restart your terminal.
 
 ## Linux
 Open the .bashrc file in your home directory (for example, /home/your-user-name/.bashrc) in a text editor.
+
 Add export PATH="your-dir:$PATH" to the last line of the file, where your-dir is the directory you want to add.
+
 Save the .bashrc file.
 
 Restart your terminal.
