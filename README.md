@@ -14,9 +14,10 @@ If you're using Windows 7, right click the "Computer" icon on the desktop and cl
 Click "Advanced system settings".
 Click "Environment Variables".
 Under "System Variables", find the PATH variable, select it, and click "Edit". If there is no PATH variable, click "New".
-Add your directory to the beginning of the variable value followed by ; (a semicolon). For example, if the value was C:\Windows\System32, change it to C:\Users\Me\bin;C:\Windows\System32.
+Add your directory to the beginning of the variable value followed by ; (a semicolon). 
+For example, if the value was C:\Windows\System32, change it to C:\Users\Me\bin;C:\Windows\System32.
 Click "OK".
-Restart your terminal.**
+Restart your terminal.
 
 
 ## Mac OS X
